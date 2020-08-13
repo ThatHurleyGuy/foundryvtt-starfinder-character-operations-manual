@@ -3,12 +3,12 @@
   "title": "Starfinder Character Operations Manual",
   "description": "A foundry VTT module for the Starfinder Character Operations Manual",
   "author": "ThatHurleyGuy",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersions": "0.6.0",
   "url": "https://github.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual",
   "manifest": "https://raw.githubusercontent.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual/master/module.json",
-  "download": "https://github.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual/archive/v0.0.2.zip",
+  "download": "https://github.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual/archive/v0.0.3.zip",
   "packs": [
     {
       "name": "character-operations-manual-classes",
