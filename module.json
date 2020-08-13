@@ -3,18 +3,32 @@
   "title": "Starfinder Character Operations Manual",
   "description": "A foundry VTT module for the Starfinder Character Operations Manual",
   "author": "ThatHurleyGuy",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.0",
   "url": "https://github.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual",
   "manifest": "https://raw.githubusercontent.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual/master/module.json",
-  "download": "https://github.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual/archive/v0.0.3.zip",
+  "download": "https://github.com/ThatHurleyGuy/foundryvtt-starfinder-character-operations-manual/archive/v0.0.4.zip",
   "packs": [
     {
       "name": "character-operations-manual-classes",
       "label": "Character Operations Manual Classes",
       "system": "starfinder",
       "path": "./packs/classes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "character-operations-manual-themes",
+      "label": "Character Operations Manual Themes",
+      "system": "starfinder",
+      "path": "./packs/themes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "character-operations-manual-races",
+      "label": "Character Operations Manual Races",
+      "system": "starfinder",
+      "path": "./packs/races.db",
       "entity": "Item"
     }
   ]
